@@ -4,6 +4,7 @@
 
 Simple, responsive password generator built with HTML, CSS, and JavaScript.
 
+<a href="https://bilisatu.github.io/Password-Generator/">![demo](https://img.shields.io/badge/live%20demo-visit%20site-%230ea5e9)</a>
 <a href="#">![status](https://img.shields.io/badge/status-active-brightgreen)</a>
 <a href="LICENSE">![license](https://img.shields.io/badge/license-MIT-blue)</a>
 
@@ -44,7 +45,9 @@ This lightweight web app generates passwords based on your selected criteria (le
 
 ## Getting Started
 
-Open the page directly in your browser.
+Open the live demo or the page directly in your browser.
+
+- Live Demo: https://bilisatu.github.io/Password-Generator/
 
 ```powershell
 Start-Process .\index.html
